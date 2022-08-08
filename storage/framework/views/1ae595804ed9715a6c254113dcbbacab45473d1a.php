@@ -1,0 +1,2 @@
+<?php echo $__env->make('includes.navbar', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+    <p>this is the index page</p><?php /**PATH C:\xampp\htdocs\laravelProjects\project_two\resources\views/posts/index.blade.php ENDPATH**/ ?>
